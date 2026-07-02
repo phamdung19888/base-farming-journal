@@ -10,4 +10,4 @@ Today I explored the Base ecosystem.
 
 - Bridge completed
 - Swapped ETH to USDC
-- Tested Stabilizer
+- stable coin Stabilizer
