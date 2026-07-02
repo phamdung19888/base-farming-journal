@@ -1,4 +1,4 @@
 # base-farming-journal
 base-farming-journal
 farn airdrop base
-how
+bridge swwap add lp....
